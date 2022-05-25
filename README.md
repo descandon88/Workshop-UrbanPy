@@ -7,4 +7,5 @@ UrbanPy es un proyecto open source para automatizar la extracción, medición y 
 2. https://github.com/EL-BID/urbanpy <p>
 3. https://dataforgood.facebook.com/dfg/tools/high-resolution-population-density-maps <p>
 4. https://nominatim.org/
-  
+# Video
+  <a href="https://www.youtube.com/watch?v=XmoRo5l7t6U&list=PLBt6-xagBVLbN2dz0VEggNnnqc-DYrumA&index=2&t=40s"> Link del video</a>
